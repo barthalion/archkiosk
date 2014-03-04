@@ -1,0 +1,31 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.16:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+libflashplayer.so:$
+/usr/lib/mozilla/plugins/libflashplayer.so:$
+11,2,202,332:$
+1386697659000:0:0:$
+Shockwave Flash 11.2 r202:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+nsdejavu.so:$
+/usr/lib/mozilla/plugins/nsdejavu.so:$
+:$
+1361880284000:0:0:$
+This is the <a href="http://djvu.sourceforge.net">DjView-4.9</a> version of the DjVu plugin.<br>See <a href="http://djvu.sourceforge.net">DjVuLibre</a>.:$
+DjView-4.9:$
+6
+0:image/x-djvu:DjVu File:djvu,djv:$
+1:image/x.djvu:DjVu File::$
+2:image/djvu:DjVu File::$
+3:image/x-dejavu:DjVu File::$
+4:image/x-iw44:DjVu File::$
+5:image/vnd.djvu:DjVu File::$
+
+[INVALID]
